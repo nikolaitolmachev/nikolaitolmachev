@@ -1,16 +1,12 @@
 English | [Русский](README.ru.md)
 
-<h2 align="center">Hello, I'm Nikolai!</h2>
-<hr/>
-<p>
-  I build Python applications and automation tools to simplify workflows, integrate services, and reduce manual work.
-</p>
-<p>
-  I focus on practical solutions, code quality, and ease of use.
-</p>
-<p>
-  Always open to interesting projects, new ideas, and collaboration.
-</p>
+## Hello, I'm Nikolai!
+
+I build Python applications and automation tools for service integration, data processing, and workflow optimization.
+
+I focus on practical solutions, code quality, and ease of use.
+
+Always open to interesting projects, new ideas, and collaboration.
 
 ## Tech Stack
 
